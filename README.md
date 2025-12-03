@@ -100,9 +100,10 @@ chmod +x file_organizer.sh student_management.sh
 
 -Loops & input handling
 
+-Menu-driven CLI interfaces
+
+-Lightweight data management with text files
+
 #### 📜 License
 
 This project is released under the MIT License.
-Menu-driven CLI interfaces
-
-Lightweight data management with text files
